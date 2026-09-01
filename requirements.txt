@@ -1,0 +1,10 @@
+#for standard cpu, uncomment this line:
+#onnxruntime>=1.15.0
+transformers>=4.30.0
+numpy>=1.22.0
+pillow>=9.0.0
+psutil>=5.9.0
+rich>=13.0.0
+#if you have a CUDA gpu uncomment the following line and leave out onnxruntime>=1.15.0
+onnxruntime-gpu
+rawpy>=0.18.0

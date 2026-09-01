@@ -1,0 +1,20 @@
+{
+  "categories": [
+    "a picture of an airplane",
+    "a picture of an animal",
+    "a picture of a building",
+    "a picture of natute",
+    "a picture of multiple people",
+    "a picture of a person",
+    "a picture of space",
+    "a picture of sports",
+    "a picture of a sunset",
+    "a close up picture of textures",
+    "a picture of vehicles"
+  ],
+  "source_dir": "/home/levi/my_photos",
+  "output_dir": "/home/levi/my_photos/sorted",
+  "use_gpu": false,
+  "threads": 6,
+  "batch_size": 4
+}
